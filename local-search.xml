@@ -5,8 +5,8 @@
   
   <entry>
     <title>Configuration-1</title>
-    <link href="/2022/06/15/test/"/>
-    <url>/2022/06/15/test/</url>
+    <link href="/2022/06/15/Configuration-1/"/>
+    <url>/2022/06/15/Configuration-1/</url>
     
     <content type="html"><![CDATA[<h1 id="Modification"><a href="#Modification" class="headerlink" title="Modification"></a>Modification</h1><ul><li>Global configurations:<ul><li>Footer removed</li><li>Font size changed to 18</li><li>Scaffold for post modified   </li><li>Set Language to EN</li><li>Modify time format</li></ul></li><li>Post page configurations:<ul><li>Add author in meta information</li><li>Enable sidebar</li><li>Modify time format</li><li>Remove copyright notice</li></ul></li><li>Article configurations:<ul><li>Add tags and assign categories</li><li>Add title image</li><li>Set individual banner image</li></ul></li></ul>]]></content>
     
