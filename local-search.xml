@@ -4,26 +4,25 @@
   
   
   <entry>
-    <title>test2</title>
-    <link href="/2022/06/15/test2/"/>
-    <url>/2022/06/15/test2/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>test</title>
+    <title>test-1</title>
     <link href="/2022/06/15/test/"/>
     <url>/2022/06/15/test/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="Modification"><a href="#Modification" class="headerlink" title="Modification"></a>Modification</h1><ul><li>Global configurations:<ul><li>Footer removed</li><li>Font size changed to 18</li><li>Scaffold for post modified   </li><li>Set Language to EN</li></ul></li><li>Post page configurations:<ul><li>Add author in meta information</li><li>Enable sidebar</li><li>Modify time format</li><li>Remove copyright notice</li></ul></li><li>Article configurations:<ul><li>Add tags and assign categories.(By default)</li><li>Add title image</li><li>Set individual banner image</li></ul></li></ul>]]></content>
     
     
+    <categories>
+      
+      <category>test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Kemie</tag>
+      
+    </tags>
     
   </entry>
   
