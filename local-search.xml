@@ -4,16 +4,41 @@
   
   
   <entry>
-    <title>Configuration-1</title>
-    <link href="/2022/06/15/Configuration-1/"/>
-    <url>/2022/06/15/Configuration-1/</url>
+    <title>Preamble</title>
+    <link href="/2022/06/17/Preamble/"/>
+    <url>/2022/06/17/Preamble/</url>
     
-    <content type="html"><![CDATA[<h1 id="Modification"><a href="#Modification" class="headerlink" title="Modification"></a>Modification</h1><ul><li>Global configurations:<ul><li>Footer removed</li><li>Font size changed to 18</li><li>Scaffold for post modified   </li><li>Set Language to EN</li><li>Modify time format</li></ul></li><li>Post page configurations:<ul><li>Add author in meta information</li><li>Enable sidebar</li><li>Modify time format</li><li>Remove copyright notice</li></ul></li><li>Article configurations:<ul><li>Add tags and assign categories</li><li>Add title image</li><li>Set individual banner image</li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="Preamble"><a href="#Preamble" class="headerlink" title="Preamble"></a>Preamble</h1><p>几经周折，终于有了属于自己的树洞。  </p>]]></content>
     
     
     <categories>
       
-      <category>test</category>
+      <category>Nutshell</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Kemie</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Configurations - 15.06</title>
+    <link href="/2022/06/15/Configuration-15-06/"/>
+    <url>/2022/06/15/Configuration-15-06/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Configurations-15-06"><a href="#Configurations-15-06" class="headerlink" title="Configurations - 15.06"></a>Configurations - 15.06</h1><ul><li>Global configurations:<ul><li>Footer removed</li><li>Font size changed to 18</li><li>Scaffold for post modified   </li><li>Set Language to EN</li><li>Modify time format</li></ul></li><li>Post page configurations:<ul><li>Add author in meta information</li><li>Enable sidebar</li><li>Modify time format</li><li>Remove copyright notice</li></ul></li><li>Article configurations:<ul><li>Add tags and assign categories</li><li>Add title image</li><li>Set individual banner image</li></ul></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Config</category>
       
     </categories>
     
